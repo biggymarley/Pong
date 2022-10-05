@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pong/static/css/main.ae2bed4a.css",
-    "main.js": "/Pong/static/js/main.ab76bb90.js",
+    "main.js": "/Pong/static/js/main.3db3cc18.js",
     "static/media/ping.png": "/Pong/static/media/ping.c900a14e253306c2a17a.png",
     "static/media/pong.png": "/Pong/static/media/pong.1981c468e1e747ceb571.png",
     "index.html": "/Pong/index.html",
     "main.ae2bed4a.css.map": "/Pong/static/css/main.ae2bed4a.css.map",
-    "main.ab76bb90.js.map": "/Pong/static/js/main.ab76bb90.js.map"
+    "main.3db3cc18.js.map": "/Pong/static/js/main.3db3cc18.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2bed4a.css",
-    "static/js/main.ab76bb90.js"
+    "static/js/main.3db3cc18.js"
   ]
 }
